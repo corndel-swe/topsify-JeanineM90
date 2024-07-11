@@ -36,16 +36,16 @@ save them into .txt files.
 
 ## Exercise 2: Ordering results
 
-- [ ] Read the docs on
+- [x] Read the docs on
       [ordering results](https://tech-docs.corndel.com/sql/ordering-results.html)
 
-- [ ] Complete `exercises/2a.sql`
+- [x] Complete `exercises/2a.sql`
 
-- [ ] Complete `exercises/2b.sql`
+- [x] Complete `exercises/2b.sql`
 
 ## Exercise 3: Paginating results
 
-- [ ] Read the docs on
+- [x] Read the docs on
       [paginating results](https://tech-docs.corndel.com/sql/limit-offset.html)
 
 - [ ] Complete `exercises/3a.sql`
