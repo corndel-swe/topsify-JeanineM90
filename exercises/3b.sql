@@ -4,5 +4,5 @@
 
 select *
 from tracks
-order by duration asc 
+order by duration_ms asc 
 limit 5 offset 15

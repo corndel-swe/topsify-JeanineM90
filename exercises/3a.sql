@@ -6,7 +6,6 @@ from albums
 order by release_date desc
 */
 
-
 select name  
 from albums
 order by release_date desc
