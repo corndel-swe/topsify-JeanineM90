@@ -6,7 +6,7 @@ from albums
 order by release_date desc
 */
 
-select names  
+select name  
 from albums
 order by release_date desc
 limit 10;

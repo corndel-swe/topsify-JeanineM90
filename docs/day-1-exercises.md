@@ -48,6 +48,6 @@ save them into .txt files.
 - [x] Read the docs on
       [paginating results](https://tech-docs.corndel.com/sql/limit-offset.html)
 
-- [ ] Complete `exercises/3a.sql`
+- [x] Complete `exercises/3a.sql`
 
 - [ ] Complete `exercises/3b.sql`
