@@ -50,4 +50,4 @@ save them into .txt files.
 
 - [x] Complete `exercises/3a.sql`
 
-- [ ] Complete `exercises/3b.sql`
+- [x] Complete `exercises/3b.sql`
