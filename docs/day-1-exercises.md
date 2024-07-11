@@ -3,7 +3,7 @@
 Today's exercises focus on writing queries to get data out of the database and
 save them into .txt files.
 
-> [!IMPORTANT]
+> [!IMPORTANT]sudo
 >
 > Don't include any `.mode` at the top of your `.sql` files for the exercises -
 > the tests are designed to work with the raw output of the query.
