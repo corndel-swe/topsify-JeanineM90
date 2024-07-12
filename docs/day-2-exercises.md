@@ -5,7 +5,7 @@ functionality out of the database.
 
 ## Exercise 1: Inner joins
 
-- [ ] Read the docs on
+- [x] Read the docs on
       [inner joins](https://tech-docs.corndel.com/sql/inner-joins.html)
 
 - [x] Complete `exercises/4a.sql`
@@ -14,10 +14,10 @@ functionality out of the database.
 
 ## Exercise 2: Aggregate queries
 
-- [ ] Read the docs on
+- [x] Read the docs on
       [aggregate queries](https://tech-docs.corndel.com/sql/aggregate-queries.html)
 
-- [ ] Complete `exercises/5a.sql`
+- [x] Complete `exercises/5a.sql`
 
 - [ ] Complete `exercises/5b.sql`
 

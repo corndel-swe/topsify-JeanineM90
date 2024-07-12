@@ -16,5 +16,7 @@ limit 10
 select feat.track_id, tra.name, feat.tempo
 from tracks tra
 inner join features feat on feat.track_id = tra.id
+--where feat.tempo > 0
 order by feat.tempo asc
 limit 10
+
