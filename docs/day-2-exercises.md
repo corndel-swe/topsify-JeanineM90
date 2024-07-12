@@ -19,13 +19,13 @@ functionality out of the database.
 
 - [x] Complete `exercises/5a.sql`
 
-- [ ] Complete `exercises/5b.sql`
+- [x] Complete `exercises/5b.sql`
 
 ## Exercise 3: Grouped aggregates
 
-- [ ] Read the docs on
+- [x] Read the docs on
       [grouped aggregates](https://tech-docs.corndel.com/sql/grouped-aggregates.html)
 
-- [ ] Complete `exercises/6a.sql`
+- [x] Complete `exercises/6a.sql`
 
-- [ ] Complete `exercises/6b.sql`
+- [x] Complete `exercises/6b.sql`
