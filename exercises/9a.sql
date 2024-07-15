@@ -5,3 +5,8 @@
   -- "name" is a unique string
 
 -- Could you write the SQL to create the table?
+
+CREATE table genres (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  name TEXT NOT NULL
+)
