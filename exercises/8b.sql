@@ -3,6 +3,6 @@
 -- Don't worry about the tracks, I'll get someone else to do that. kthx!
 
 DELETE FROM albums
---JOIN artists ON artists.name = albums.artist_id
---WHERE artists.name = 'Dua Lipa'
-WHERE albums.artist_id = 'Dua Lipa'
+JOIN artists ON artists.name = albums.artist_id
+WHERE artists.name = 'Dua Lipa'
+
